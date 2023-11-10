@@ -10,15 +10,13 @@
         </h1>
       </div>
       <p class="mt-4 text-base leading-7 text-slate-600">
-        Logspot is an open source change log template made with Nuxt, Vue, and
-        Tailwindcss. Subscribe to our newsletter to get the latest updates or
-        follow us on
+      ImageWindow 是一个专注于像素级图像对比、处理及分析的应用，欢迎使用~
         <a
           class="text-primary underline"
-          href="https://twitter.com/fayazara"
+          href="https://sokedev.cn"
           target="_blank"
-          >twitter</a
-        >.
+          >访问主页</a
+        >
       </p>
     </div>
   </header>

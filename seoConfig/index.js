@@ -3,10 +3,10 @@ export default {
   description:
     "Logspot implat.",
   og: {
-    title: "Logspot ate",
+    title: "dsfsfs",
     description:
       "Logspndcss.",
-    image: "https://logspot.vercel.app/logspot-banner.png",
+    image: "https://avatars.githubusercontent.com/u/50172682?s=48&v=4",
     url: "https://logspot.vercel.app",
   },
 };
