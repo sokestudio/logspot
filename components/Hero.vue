@@ -10,7 +10,8 @@
         </h1>
       </div>
       <p class="mt-4 text-base leading-7 text-slate-600">
-      ImageWindow 是一个专注于像素级图像对比、处理及分析的应用，欢迎使用~
+      ImageWindow 是一个专注于像素级图像对比、处理及分析的应用，欢迎使用~ 
+      <br>
         <a
           class="text-primary underline"
           href="https://sokedev.cn"
