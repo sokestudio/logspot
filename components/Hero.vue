@@ -6,7 +6,7 @@
         <h1
           class="text-4xl font-extrabold tracking-tight text-slate-700 sm:text-5xl"
         >
-          logspot
+          ImageWindow
         </h1>
       </div>
       <p class="mt-4 text-base leading-7 text-slate-600">

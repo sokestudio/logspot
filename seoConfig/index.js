@@ -1,5 +1,5 @@
 export default {
-  title: " changelog template",
+  title: "ImageWindow",
   description:
     "Logspot implat.",
   og: {
