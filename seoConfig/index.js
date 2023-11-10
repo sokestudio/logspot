@@ -1,11 +1,11 @@
 export default {
-  title: "Logspot - Opensource changelog template",
+  title: " changelog template",
   description:
-    "Logspot is an open source change log templat.",
+    "Logspot implat.",
   og: {
-    title: "Logspot - Opensource changelog template",
+    title: "Logspot ate",
     description:
-      "Logspot is an opeuxt, Vue, and Tailwindcss.",
+      "Logspndcss.",
     image: "https://logspot.vercel.app/logspot-banner.png",
     url: "https://logspot.vercel.app",
   },
