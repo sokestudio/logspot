@@ -14,7 +14,7 @@
       <br>
         <a
           class="text-primary underline"
-          href="https://sokedev.cn"
+          href="https://iw.sokedev.cn"
           target="_blank"
           >访问主页</a
         >
